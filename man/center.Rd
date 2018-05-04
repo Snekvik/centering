@@ -16,6 +16,6 @@ A numeric vector
 Subtracts the mean from the input
 }
 \examples{
-a <- runif(10)
+a <- c(1:10, 20)
 center(a)
 }
